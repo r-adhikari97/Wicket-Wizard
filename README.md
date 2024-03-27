@@ -1,6 +1,6 @@
-# Wicket Wizard
+# Cricket Match Predictor
 
-Wicket Wizard is a machine learning model for predicting IPL match outcomes based on innings played and various factors.
+A machine learning model for predicting IPL match outcomes based on innings played and various factors.
 
 ## Features
 
